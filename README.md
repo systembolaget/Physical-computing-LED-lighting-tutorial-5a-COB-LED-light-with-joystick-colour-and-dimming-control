@@ -29,10 +29,9 @@ Driving two high-CRI COB LEDs and dimming/mixing their different CCTs with a joy
 
 ### Useful links  
 
-μc https://www.adafruit.com/product/2590
-CC-PSU https://www.meanwell.com/Upload/PDF/LDB-L/LDB-L-SPEC.PDF
-LED http://ce.citizen.co.jp/lighting_led/dl_data/datasheet/en/COB_HI_ver2/CLU701-0303C4_0035P_201710.pdf
-Thermally conductive tape https://multimedia.3m.com/mws/media/122119O/3m-thermally-conductive-adhesive-transfer-tapes-8800-series.pdf
-Heat-sink https://www.fischerelektronik.de/web_fischer/de_DE/Kühlkörper/B03.1/Kühlkörper%20für%20LED/PG/ICKLEDR033x16.5G/search.xhtml
-Heat sink calculations https://www.led-heatsink.com/thermal-calculation
- 
+μc https://www.adafruit.com/product/2590  
+CC-PSU https://www.meanwell.com/Upload/PDF/LDB-L/LDB-L-SPEC.PDF  
+LED http://ce.citizen.co.jp/lighting_led/dl_data/datasheet/en/COB_HI_ver2/CLU701-0303C4_0035P_201710.pdf  
+Thermally conductive tape https://multimedia.3m.com/mws/media/122119O/3m-thermally-conductive-adhesive-transfer-tapes-8800-series.pdf  
+Heat-sink https://www.fischerelektronik.de/web_fischer/de_DE/Kühlkörper/B03.1/Kühlkörper%20für%20LED/PG/ICKLEDR033x16.5G/search.xhtml  
+Heat sink calculations https://www.led-heatsink.com/thermal-calculation  
