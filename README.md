@@ -4,11 +4,11 @@ Driving two high-CRI COB LEDs and dimming/mixing their different CCTs with a joy
 
 ### Result
 
-![](Assets/8b%20result.jpg)
+![](Assets/5a%20result.jpg)
 
 ### Schematic
 
-![](Assets/8b%20schematic.png)
+![](Assets/5a%20schematic.png)
 
 ### BOM
 
