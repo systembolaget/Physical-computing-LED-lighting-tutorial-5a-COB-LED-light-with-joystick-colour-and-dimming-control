@@ -10,6 +10,10 @@ Driving two high-CRI COB LEDs and dimming/mixing their different CCTs with a joy
 
 ![](Assets/5a%20schematic.png)
 
+### Joystick PWM value matrix (useful for coding)
+
+![](Assets/5a%20joystick%20PWM%20value%20matrix.png)
+
 ### BOM
 
 <pre>
