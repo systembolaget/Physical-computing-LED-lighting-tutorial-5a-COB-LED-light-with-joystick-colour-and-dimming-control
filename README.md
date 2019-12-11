@@ -1,6 +1,6 @@
-# Physical computing LED lighting tutorial - LED luminaire with joystick colour temperature control
+# Physical computing LED lighting tutorial - LEDs with joystick colour temperature and dimming control
 
-Driving two high-CRI COB LEDs and dimming/mixing their different CCTs with a joystick interface
+Warm. Cold. Bright. Dark. Memory function. How to drive two high-CRI COB LEDs and dim/mix their different CCTs with a joystick interface and Arduino
 
 ### Result
 
