@@ -10,7 +10,7 @@ Warm. Cold. Bright. Dark. Memory function. How to drive two high-CRI COB LEDs an
 
 ![](Assets/5a%20schematic.png)
 
-### Joystick PWM value matrix (useful for coding)
+### Joystick PWM "value matrix"
 
 ![](Assets/Joystick%20PWM%20value%20matrix.png)
 
