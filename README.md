@@ -2,9 +2,11 @@
 
 Warm. Cold. Bright. Dark. Memory function. How to drive two high-CRI COB LEDs and dim/mix their different CCTs with a joystick interface and Arduino
 
-### Result
+### Setup
 
-![](Assets/5a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/5a%20result.jpg)](https://www.youtube.com/watch?v=d3xJDc7I1Rg)
 
 ### Schematic
 
